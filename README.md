@@ -1,0 +1,2 @@
+# Mini_Project
+USGS_Earthquake_Data_Collection
